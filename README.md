@@ -70,12 +70,15 @@ Real-time deployment with live data feeds
 Feature enrichment and model explainability
 
 Project Repository
+
 GitHub: https://github.com/2300033094/IBM-Project-Power-System-Fault-Detection-and-Classification.git
 
 Dataset: https://www.kaggle.com/datasets/ziya07/power-system-faults-dataset
 
 License
+
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 Author
+
 Chebrolu Chaithanya Kumar (2300033094)
