@@ -1,4 +1,6 @@
 **Power System Fault Detection and Classification**
+
+
 This project implements a machine learning solution for automatic detection and classification of faults in power distribution systems using electrical measurement data (such as voltage, current, and associated features). The workflow leverages IBM Cloud Lite services, with the aim of supporting rapid and reliable grid stability.
 
 Project Structure
