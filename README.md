@@ -4,10 +4,15 @@
 This project implements a machine learning solution for automatic detection and classification of faults in power distribution systems using electrical measurement data (such as voltage, current, and associated features). The workflow leverages IBM Cloud Lite services, with the aim of supporting rapid and reliable grid stability.
 
 Project Structure
+
  IBM Project.pdf                   -> Detailed project report/documentation
+ 
  IBM Project.pptx                  -> Project presentation slides
+ 
  Power System Fault Detection.ipynb -> Main Jupyter notebook for data analysis, modeling, and evaluation
+ 
  fault_data.csv                    -> Source dataset used for training and evaluation
+ 
  Problem Statement
 Rapid and accurate identification of power system faults (such as line breakage, transformer failure, and overheating) is critical to maintain grid reliability. This project uses machine learning to detect and classify such faults based on electrical and environmental data.
 
