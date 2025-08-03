@@ -5,13 +5,13 @@ This project implements a machine learning solution for automatic detection and 
 
 Project Structure
 
- IBM Project.pdf                   -> Detailed project report/documentation
+  IBM Project.pdf                   -> Detailed project report/documentation
  
- IBM Project.pptx                  -> Project presentation slides
+  IBM Project.pptx                  -> Project presentation slides
  
- Power System Fault Detection.ipynb -> Main Jupyter notebook for data analysis, modeling, and evaluation
+  Power System Fault Detection.ipynb -> Main Jupyter notebook for data analysis, modeling, and evaluation
  
- fault_data.csv                    -> Source dataset used for training and evaluation
+  fault_data.csv                    -> Source dataset used for training and evaluation
  
  Problem Statement
 Rapid and accurate identification of power system faults (such as line breakage, transformer failure, and overheating) is critical to maintain grid reliability. This project uses machine learning to detect and classify such faults based on electrical and environmental data.
